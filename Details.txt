@@ -101,6 +101,8 @@ Topics:
 Task:
   Understand the pre-development process of FSD
 
+  Go through our discussions and topics, clarify if any doubts
+
 Next Session: 
 
   Will continue the developments on further pages & apis
